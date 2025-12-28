@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: android-gateway
-    env: node
-    plan: free
-    buildCommand: ""
-    startCommand: "node index.js"
